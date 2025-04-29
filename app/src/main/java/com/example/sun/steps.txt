@@ -1,0 +1,13 @@
+//        alias(libs.plugins.spotless) apply false
+//        alias(libs.plugins.android.test) apply false
+//        alias(libs.plugins.gradle.versions) apply false
+//        alias(libs.plugins.version.catalog.update)
+//        alias(libs.plugins.compose.compiler) apply false
+
+
+
+Download https://dl.google.com/dl/android/maven2/com/android/tools/build/aapt2/8.9.0-12782657/aapt2-8.9.0-12782657.pom, took 348 ms
+Download https://dl.google.com/dl/android/maven2/com/android/tools/build/aapt2/8.9.0-12782657/aapt2-8.9.0-12782657-linux.jar, took 702 ms
+
+Download https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.1.20-2.0.0/symbol-processing-aa-embeddable-2.1.20-2.0.0.pom, took 413 ms
+Downloading https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.1.20-2.0.0/symbol-processing-aa-embeddable-2.1.20-2.0.0.jar (6,16 MB / 59,44 MB)> Task :app:kspDebugKotlin
